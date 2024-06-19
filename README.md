@@ -2,7 +2,7 @@
 
 # News homepage
 
-[Live](https://github.com/Sonu-Dutta/Frontendmentor-news-homepage) | [Solution](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub) | [Challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
+[Live](https://github.com/Sonu-Dutta/Frontendmentor-news-homepage) | [Solution](https://www.frontendmentor.io/solutions/news-homepage-e0YabMe_OP) | [Challenge](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
@@ -34,4 +34,4 @@ Another great project to practise some mobile-first workflow and remember the ba
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/news-homepage-e0YabMe_OP). It definitely helps to find new ways to code and find easier solutions!
